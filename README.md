@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/joy717/poolasync)](https://goreportcard.com/report/github.com/joy717/poolasync)
+
 # pool-async
 pool-async is a tool for goroutines with a pool.
 
