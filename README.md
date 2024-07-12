@@ -27,4 +27,4 @@ func main() {
   }
 }
 ```
-If you like this tool, star it to make this tool to be known by more people.
+If you like this tool, star it and share it. Thx.
