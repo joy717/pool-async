@@ -35,7 +35,7 @@ func main() {
 If you like this tool, star it and share it. Thx.
 
 # Note
-You can choose Golang offical repo errgroup.Group too. this repo add limit since 2022 now.
+You can choose Golang offical repo `errgroup.Group` too. this repo add limit since 2022 now.
 https://cs.opensource.google/go/x/sync/+/0976fa681c295de5355f7a4d968b56cb9da8a76b
 
 `Poolasync` can get all errors, the `errgroup` can only get the first error.
