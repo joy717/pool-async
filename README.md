@@ -39,4 +39,4 @@ You can choose Golang offical repo `errgroup.Group` now. `errgroup` repo add lim
 https://cs.opensource.google/go/x/sync/+/0976fa681c295de5355f7a4d968b56cb9da8a76b
 
 but you can still choose `poolasync`.
-`poolasync` can get all errors, the `errgroup` can only get the first error.
+`poolasync` can get all errors, the `errgroup` can only get the first non-nil error.
