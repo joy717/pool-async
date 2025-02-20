@@ -5,7 +5,7 @@ pool-async is a tool for goroutines with a pool.
 
 # Features
 * limit goroutine numbers for avoid to use out of resources like memory, fd etc.
-* can return first error when using `DoWithError()` then `Wait()` will return the first error
+* can return first error when using `DoWithError()` then `Wait()` will return the first non-nil error
 * you can get all errors if you want. just call `GetErrors()`
 
 # Quick start
