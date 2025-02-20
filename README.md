@@ -8,7 +8,7 @@ pool-async is a tool for goroutines with a pool.
 * can return first error when using `DoWithError()` then Wait will return the first error
 * you can get all errors if you want. just call `GetErrors()`
 
-#Quick start
+# Quick start
 ```
 package main
 
